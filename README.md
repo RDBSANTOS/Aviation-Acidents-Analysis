@@ -1,2 +1,2 @@
-# Aviation-Acidents-Analysis
+# Aviation-Accidents-Analysis
 Aviation accident analysis project 
